@@ -264,5 +264,21 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17828214369783865",
+    "text": "[운영 2026-06-30 사이클#14] 현빈: 현빈 = YouTube 채널 API 연동 및 설정 완료 (레오) / Researcher: 루나 = 유튜브 채널 디자인 컨셉 3안 기획 (designer) (오늘업무_2026-06-30/리서치.md) / 루나: 루나 = 기획된 디자인 컨셉 중 1안 최종 확정 및 적용 (designer) (오늘업무_2026-06-30/사운드_가이드.md)",
+    "tags": [
+      "2026",
+      "루나",
+      "현빈",
+      "채널",
+      "디자인",
+      "컨셉"
+    ],
+    "ts": 1782821436979,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
